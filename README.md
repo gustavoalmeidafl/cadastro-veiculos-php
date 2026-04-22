@@ -20,6 +20,16 @@ Sistema web desenvolvido para cadastro e consulta de veículos.
 3. Iniciar Apache e MySQL
 4. Acessar: http://localhost/projeto
 
+5. ## Banco de Dados
+
+O arquivo SQL está disponível na pasta `/database`.
+
+Para importar:
+1. Acesse o phpMyAdmin
+2. Crie o banco `veiculos_db`
+3. Vá em "Importar"
+4. Selecione o arquivo `.sql`
+
 ## Demonstração
 ### Cadastro
 ![Cadastro](imagens/Capturadetela2026-04-20210935.png)
