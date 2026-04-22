@@ -22,10 +22,10 @@ Sistema web desenvolvido para cadastro e consulta de veículos.
 
 ## Demonstração
 ### Cadastro
-![Cadastro](imagens/Capturadetela2026-04-20210935.png)
+![Cadastro](imagens/Captura de tela 2026-04-20210935.png)
 
 ### Listagem
-![Lista](images/Capturadetela2026-04-20210946.png)
+![Lista](images/Captura de tela 2026-04-20210946.png)
 
 ### Banco de Dados
-![Banco](images/Capturadetela2026-04-20211004.png)
+![Banco](images/Captura de tela 2026-04-20211004.png)
