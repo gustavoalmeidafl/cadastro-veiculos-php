@@ -1,4 +1,4 @@
-# 🚗 Cadastro de Veículos
+# Cadastro de Veículos
 
 Sistema web desenvolvido para cadastro e consulta de veículos.
 
