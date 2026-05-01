@@ -32,7 +32,7 @@ Para importar:
 
 ## Demonstração
 ### Cadastro
-![Cadastro](imagens/Capturadetela2026-04-20210935.png)
+![Cadastro](https://raw.githubusercontent.com/gustavoalmeidafl/cadastro-veiculos-php/bfb86282f584e47672c8314dd61e96d31e394548/imagens/Captura%20de%20tela%202026-04-20%20210935.png)
 
 ### Listagem
 ![Lista](images/Capturadetela2026-04-20210946.png)
